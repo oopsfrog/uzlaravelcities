@@ -2,7 +2,7 @@
 
 ## About News Project
 
-This Cities Website Project is created with PHP 8.2, Laravel 10.8.0
+This Cities Website Project is created with PHP 8.2, Laravel 10.9.0
 
 ## Installing
 
